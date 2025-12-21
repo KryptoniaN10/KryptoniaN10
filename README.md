@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KryptoniaN10
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...Abhinav
 - 📫 How to reach me ...don't try to reach me
 
 <!---
