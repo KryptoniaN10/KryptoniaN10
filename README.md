@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KryptoniaN10
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 📫 How to reach me ...don't try to reach me
+- 👀 I’m interested to code
 
 <!---
 KryptoniaN10/KryptoniaN10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
